@@ -9,7 +9,7 @@ if (numberA > numberB)
 {
     Console.WriteLine ($"Максимальное число {numberA}");
 }
-if (numberC > numberA)
+if (numberC > numberB)
 {
     Console.WriteLine ($"Максимальное число {numberC}");
 }
